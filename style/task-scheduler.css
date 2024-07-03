@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    background-color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.main-content{
+    margin: 30px;
+}

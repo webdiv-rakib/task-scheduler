@@ -14,3 +14,27 @@
 .main-content{
     margin: 30px;
 }
+.tasks-container{
+    margin-top: 20px;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+.task{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 20px 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.task-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.done-btn{
+    border: 0;
+    background-color: rgb(47, 158, 47);
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: small;
+}
